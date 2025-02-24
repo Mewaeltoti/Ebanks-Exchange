@@ -10,6 +10,8 @@ export default {
   plugins: [require("daisyui")],
   daisyui: {
     themes: ["light", "dark", "cupcake","forest"],
-  }, // Add DaisyUI plugin
+  },
+  mode: 'jit' // Add aDaisyUI plugin
 };
 
+ 
