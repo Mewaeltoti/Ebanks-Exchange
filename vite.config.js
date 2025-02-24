@@ -8,7 +8,7 @@ export default defineConfig({
     minify: 'esbuild',
     // Ensure assets are correctly hashed for caching
     assetsDir: 'assets',
-    // Enable CSS code splitting
+    // Enable CSS code spliatting
     cssCodeSplit: true,
   },
   plugins: [react(),],
