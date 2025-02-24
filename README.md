@@ -1,8 +1,23 @@
-# React + Vite
+# EBanks Exchange
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+EBanks Exchange is a platform for displaying Ethiopian bank exchange rates. It provides a user-friendly interface to view and manage real-time exchange rates for Ethiopian banks.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Display current exchange rates from various Ethiopian banks.
+- Easy-to-navigate UI with a modern design powered by **Vite** and **TailwindCSS**.
+- User authentication with **Clerk** for secure login and signup.
+
+## Tech Stack
+
+- **Frontend**: React.js with Vite
+- **UI Library**: DaisyUI
+- **Authentication**: Clerk For sign in / Up
+- **API**:https://et-forex.com/
+- **Deployment**: Vercel
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Mewaeltoti/Ebanks-Exchange.git
