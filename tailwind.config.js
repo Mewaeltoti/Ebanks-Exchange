@@ -11,7 +11,7 @@ export default {
   daisyui: {
     themes: ["light", "dark", "cupcake","forest"],
   },
-  mode: 'jit' // Add DaisyUI plugin
+  mode: 'jit' // Add aDaisyUI plugin
 };
 
  
